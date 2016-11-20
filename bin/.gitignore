@@ -1,0 +1,13 @@
+/application.conf
+/controllers/
+/evolutions/
+/filters/
+/logback.xml
+/models/
+/routes
+/services/
+/views/
+/ApplicationTest.class
+/Filters.class
+/IntegrationTest.class
+/Module.class
